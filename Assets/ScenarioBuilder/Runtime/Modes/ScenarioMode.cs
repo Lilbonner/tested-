@@ -45,6 +45,8 @@ namespace ScenarioBuilder
             groups = new List<StepGroup>(stepGroups);
         }
 
+        internal void AddGroup(StepGroup group) => groups.Add(group);
+
         /// <summary>Проблемы конфигурации, понятные человеку (показываются в инспекторе и при запуске).</summary>
         public List<string> Validate()
         {

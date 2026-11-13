@@ -1,0 +1,20 @@
+{
+    "name": "ScenarioBuilder.Editor",
+    "rootNamespace": "ScenarioBuilder.Editor",
+    "references": [
+        "ScenarioBuilder.Runtime",
+        "ScenarioBuilder.Demo",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
