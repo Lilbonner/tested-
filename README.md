@@ -19,7 +19,10 @@
 4. После прохождения откроется отчёт. В нём можно переключить анализатор (оценка пересчитается по
    тому же журналу), открыть вкладку «Журнал событий», пройти заново или вернуться в меню.
 
-Windows-билд: меню **Tools → Scenario → Собрать Windows-билд демо**
+**Готовый Windows-билд:** [`Builds/ScenarioDemo_Windows.zip`](Builds/ScenarioDemo_Windows.zip) — распаковать
+и запустить `ScenarioDemo.exe` (окно 1600×900).
+
+Пересобрать билд: меню **Tools → Scenario → Собрать Windows-билд демо**
 (результат появится в `Builds/ScenarioDemo_Windows/ScenarioDemo.exe`). Из командной строки:
 
 ```bash
